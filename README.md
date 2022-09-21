@@ -1,6 +1,3 @@
-# myvue
-
-> first vue
 
 ## Build Setup
 
